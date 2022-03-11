@@ -1,5 +1,5 @@
 # pong-game
-
+![](startpoint.png)
 #### For Player A:
 
 	To move paddle up press 'w'
