@@ -2,8 +2,8 @@
 
 #### For Player A:
 
-	To move paddle up press 'u'
-	To move paddle down press 'e'
+	To move paddle up press 'w'
+	To move paddle down press 's'
 
 ### For Player B:
 
